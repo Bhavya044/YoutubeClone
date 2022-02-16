@@ -1,0 +1,28 @@
+.App{
+    background-color: rgb(41, 40, 40);
+}
+
+.app_page {
+    display: flex;
+    /* flex-direction: column; */
+
+}
+::-webkit-scrollbar {
+    width : 10 px;
+}
+
+/* Track */::-webkit-scrollbar-track {
+    background : #353434;
+}
+
+/* Handle */::-webkit-scrollbar-thumb {
+    background : #888;
+}
+
+/* Handle on hover */::-webkit-scrollbar-thumb:hover {
+    background : #555;
+}
+
+
+
+
